@@ -10,7 +10,7 @@ int main()
     int a[50],n,i;
     cout<<"How many elements?";
     cin>>n;
-    cout<<"\nEnter array elements:";
+    cout<<"\nEnter the array elements:";
 
     for(i=0;i<n;i++)
         cin>>a[i];
